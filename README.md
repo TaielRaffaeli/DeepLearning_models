@@ -6,6 +6,12 @@ Este repositorio contiene tres proyectos realizados en el ámbito del aprendizaj
 
 ## Problema 1: Predicción del Índice de Rendimiento Académico
 
+**Descripción:**  
+Modelo de regresión con redes neuronales para predecir el índice de rendimiento académico de estudiantes usando variables como horas de estudio, puntuaciones anteriores y actividades extracurriculares.
+
+**Dataset:**  
+Variables: Horas de estudio, puntuaciones anteriores, actividades extracurriculares, horas de sueño, cuestionarios practicados, y el índice de rendimiento (10 a 100).
+
 **Objetivo:**  
 Desarrollar un modelo de regresión utilizando redes neuronales para predecir el índice de rendimiento académico de los estudiantes. Se implementaron técnicas avanzadas de validación y métricas de evaluación de regresión.
 
